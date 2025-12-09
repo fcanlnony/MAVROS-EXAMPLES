@@ -16,4 +16,4 @@ Python版本: >= 3.8
 
 ---
 
-画圆: [圆圈](../src/circle/README.md)
+画圆: [圆圈](../src/circle/README_CN.md)
