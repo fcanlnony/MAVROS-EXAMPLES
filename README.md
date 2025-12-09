@@ -17,3 +17,5 @@ Python Version: >= 3.8
 ---
 
 Draw Circle: [Circle](src/circle/README.md)
+
+Draw Rectangle: [Rectangle](src/rectangle/README.md)

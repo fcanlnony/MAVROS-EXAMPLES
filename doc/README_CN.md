@@ -17,3 +17,5 @@ Python版本: >= 3.8
 ---
 
 画圆: [圆圈](../src/circle/README_CN.md)
+
+画矩形: [矩形](../src/rectangle/README_CN.md)
