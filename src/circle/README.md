@@ -65,5 +65,5 @@ Runs at **20Hz**. Inside the loop:
     运行控制节点：
     ```bash
     chmod +x circle.py
-    rosrun <your_package_name> circle.py
+    roslaunch launch/circle.launch
     ```
